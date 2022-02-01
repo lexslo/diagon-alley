@@ -1,5 +1,6 @@
 # E-commerce Backend: Diagon Alley 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+:mage-woman:
 
 ## Description
 The shopkeepers of Diagon Alley have come together to serve the global wizarding community via an e-commerce website. They have asked for muggle expertise on implementing a backend that uses the latest technologies so that they can compete with other online vendors of magical wares.
