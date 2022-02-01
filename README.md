@@ -28,6 +28,7 @@ exit
 npm run seed
 ```
 This will seed the database with initial data.
+
 4. Start the server by typing the following command:
 ```
 npm start
